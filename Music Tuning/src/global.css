@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'LeLand';
+    src: local('LeLand'), 
+    url(./assets/Leland.otf)
+    format('truetype');
+}
+
+@font-face {
+    font-family: 'SCodeP';
+    src: local('SCodeP'),
+    url(./assets/SourceCodePro-Regular.otf)
+    format('truetype');
+}
+
+@font-face {
+    font-family: 'LeLandttf';
+    src: local('LeLandttf'), 
+    url(./assets/LelandText.ttf)
+    format('truetype');
+}
